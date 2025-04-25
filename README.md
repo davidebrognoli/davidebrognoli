@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Davide Brognoli
 
-<!--
-**davidebrognoli/davidebrognoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer who loves turning code into experiences.  
+Currently crafting interfaces and experimenting with audio, visual and nostalgic vibes on the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About me
+
+Italian, remote worker, curious by nature.  
+Always prototyping something, sometimes even finishing it.
+
+---
+
+## 👨‍💻 What I do
+
+- 🧱 Building interfaces with **React, Vue, Svelte & Lit**
+- 🎛️ Exploring the Web Audio API (DJ consoles, music visualizers)
+- 🕹️ Tinkering with creative frontend side-projects
+- 🎨 Creating things that are fun, usable and maybe a bit weird
+
+---
+
+## 📚 Work & Education
+
+- 👨‍💼 Frontend Engineer @ CodicePlastico (full remote)
+- 🎓 Computer Science degree from **Università Cattolica di Brescia**
+
+---
+
+## 🧪 Projects & Experiments
+
+- 🎚️ **Virtual DJ Console**: A web app built with Lit to mix two tracks  
+- 📻 **Audio visualizer**: Real-time music bars and album info via MusicBrainz  
+- 🎄 **Advent of Code**: Solving puzzles each December
+
+---
+
+## 🎧 soundtrack of my workflow
+
+Some tracks that keep me focused and in the zone:
+
+- Dire Straits – *Lady Writer*
+- Electric Light Orchestra – *Mr. Blue Sky*
+- Earth, Wind & Fire – *Boogie Wonderland*
+- The Beatles – *Hey Jude*
+- La Bouche – *Be My Lover*
+
+🎵 [Find me on Spotify](https://open.spotify.com/user/1194150606)
+
+> "Music is the space between the notes." – Claude Debussy
