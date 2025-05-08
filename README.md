@@ -14,7 +14,7 @@ Always prototyping something, sometimes even finishing it.
 
 ## 👨‍💻 What I do
 
-- 🧱 Building interfaces with **React, Vue, Svelte & Lit**
+- 🧱 Building interfaces with **Angular, React, Vue, Svelte & Lit**
 - 🎛️ Exploring the Web Audio API (DJ consoles, music visualizers)
 - 🕹️ Tinkering with creative frontend side-projects
 - 🎨 Creating things that are fun, usable and maybe a bit weird
